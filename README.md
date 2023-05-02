@@ -44,12 +44,6 @@ For development:
 npm start
 ```
 
-For production, first build the project and then run it:
-
-```sh
-npm run build
-npm run start:prod
-```
 
 The server will be running on http://0.0.0.0:5003.
 
