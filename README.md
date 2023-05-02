@@ -1,10 +1,10 @@
 # ChatGPT Todo Plugin In NodeJs
 
-This repository provides a simple example of a Todo plugin for ChatGPT using Node.js and TypeScript. The plugin allows users to add, retrieve, and delete Todo items for different usernames.
+This repository provides a simple example of a Todo plugin for ChatGPT using Node.js and TypeScript, to help you write your own ChatGPT plugins in Nodejs. The plugin allows users to add, retrieve, and delete Todo items for different usernames.
 
 Get a todo list ChatGPT plugin up and running in under 5 minutes using NodeJS. If you do not already have plugin developer access, please [join the waitlist](https://openai.com/waitlist/plugins). This is similar to the python sample from OpenAI 
 
-You can read the [plugin documentation from OpenAI] (https://platform.openai.com/docs/plugins/)
+I would also suggest you to read the [plugin documentation from OpenAI](https://platform.openai.com/docs/plugins/) if you havn't done this yet.
 
 ![image info](./Demo.png)
 
@@ -45,7 +45,6 @@ npm start
 ```
 
 
-The server will be running on http://0.0.0.0:5003.
 
 Once the local server is running:
 
