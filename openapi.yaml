@@ -1,6 +1,6 @@
-openapi: "3.0.1"
+openapi: 3.0.1
 info:
-  title: TODO Plugin
+  title: TODO Plugin 
   description: A plugin that allows the user to create and manage a TODO list using ChatGPT. If you do not know the user's username, ask them first before making queries to the plugin. Otherwise, use the username "global".
   version: 'v1'
 servers:
@@ -34,8 +34,8 @@ paths:
             type: string
         required: true
         description: The name of the user.
-      requestBody:
-        required: true
+      requestBody: 
+        required: true 
         content:
           application/json:
             schema:
