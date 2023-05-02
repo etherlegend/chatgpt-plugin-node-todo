@@ -1,3 +1,3 @@
-# ChatGPT TODO Plug In Quickstart In NodeJS
+# A ChatGPT Todo Plug In In NodeJS
 
-ChatGPT Plugin NodeJS Quickstart
+Quickstart your ChatGPT Plug In development with this NodeJS boilerplate
