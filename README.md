@@ -26,7 +26,7 @@ I would also suggest you to read the [plugin documentation from OpenAI](https://
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/chatgpt-plugin-node-todo.git
+git clone https://github.com/etherlegend/chatgpt-plugin-node-todo.git
 cd chatgpt-plugin-node-todo
 ```
 
