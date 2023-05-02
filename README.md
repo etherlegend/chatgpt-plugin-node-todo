@@ -1,4 +1,4 @@
-# ChatGPT Todo Plugin
+# ChatGPT Todo Plugin In NodeJs
 
 This repository provides a simple example of a Todo plugin for ChatGPT using Node.js and TypeScript. The plugin allows users to add, retrieve, and delete Todo items for different usernames.
 
