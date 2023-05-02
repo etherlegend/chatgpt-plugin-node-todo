@@ -87,4 +87,4 @@ Contributions are welcome! Please create a fork of this repository, make your ch
 
 ## License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
