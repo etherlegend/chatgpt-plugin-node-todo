@@ -4,6 +4,8 @@ This repository provides a simple example of a Todo plugin for ChatGPT using Nod
 
 Get a todo list ChatGPT plugin up and running in under 5 minutes using NodeJS. If you do not already have plugin developer access, please [join the waitlist](https://openai.com/waitlist/plugins). This is similar to the python sample from OpenAI 
 
+![image info](./pictures/Demo.png)
+
 ## Features
 
 - Add Todo items for a specific user
